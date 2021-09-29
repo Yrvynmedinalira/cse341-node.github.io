@@ -1,0 +1,24 @@
+{
+  "name": "cse341-node.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prove01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon prove01.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yrvynmedinalira/cse341-node.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yrvynmedinalira/cse341-node.github.io/issues"
+  },
+  "homepage": "https://github.com/Yrvynmedinalira/cse341-node.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}
